@@ -1,0 +1,26 @@
+
+
+DESCRIPTION
+
+Students:  Please note instructions in paper copy of quiz.  Save your
+files often, make sure OMSI fills your entire screen at all times, etc.
+
+A question may not fully fit into your OMSI question box, which is not
+scrollable.  You can try adjusting the relative size of the question and
+answer boxes, but remember that clicking CopyQtoA will copy the entire
+question box to the answer box.
+
+QUESTION
+
+Which one of the following topics is most related to this course - algorithms, architecture, statistics?
+
+QUESTION -ext .R -run 'Rscript ./omsi_answer2.R'
+
+Write a function f() that returns square of its argument e.g. f(3) is 9.
+Fill in the blanks:
+
+f <- function(x){
+   
+}
+print(f(5))
+
